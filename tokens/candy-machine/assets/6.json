@@ -1,0 +1,29 @@
+{
+    "name": "Vaders #7",
+    "symbol": "VAD",
+    "description": "10 vader collections",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "chair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "laptop"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "whiteboard"
+        }
+    ],
+    "properties": {
+        "category":"image",
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

@@ -13,11 +13,11 @@ import { useMemo } from "react";
 
 const WalletContextProvider: FC<{ children: ReactNode }> = ({ children }) => {
   const url = useMemo(() => clusterApiUrl("devnet"), []);
-  const phantom = new PhantomWalletAdapter();
+  const phantom = useMemo(() => new PhantomWalletAdapter(), []);
 
   return (
     <ConnectionProvider endpoint={url}>
-      <WalletProvider wallets={[phantom]}>
+      <WalletProvider wallets={[phantom]} autoConnect={true}>
         <WalletModalProvider>{children}</WalletModalProvider>
       </WalletProvider>
     </ConnectionProvider>

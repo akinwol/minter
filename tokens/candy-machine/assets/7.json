@@ -1,0 +1,29 @@
+{
+    "name": "Vaders #8",
+    "symbol": "VAD",
+    "description": "10 vader collections",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "binder"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "clipboard"
+        },
+        {
+            "trait_type": "books",
+            "value": "various"
+        }
+    ],
+    "properties": {
+        "category":"image",
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

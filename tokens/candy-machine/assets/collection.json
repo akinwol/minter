@@ -1,0 +1,15 @@
+{
+  "name": "Vaders",
+  "symbol": "VAD",
+  "description": "10 vader collections",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

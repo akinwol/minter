@@ -1,0 +1,29 @@
+{
+    "name": "Vaders #9",
+    "symbol": "VAD",
+    "description": "10 vader collections",
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "clock"
+        },
+        {
+            "trait_type": "chair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "books",
+            "value": "various"
+        }
+    ],
+    "properties": {
+        "category":"image",
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

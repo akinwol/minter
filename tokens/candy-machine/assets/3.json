@@ -1,0 +1,29 @@
+{
+    "name": "Vaders #4",
+    "symbol": "VAD",
+    "description": "10 vader collections",
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "monitor"
+        },
+        {
+            "trait_type": "chair",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "papers",
+            "value": "white"
+        }
+    ],
+    "properties": {
+        "category":"image",
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

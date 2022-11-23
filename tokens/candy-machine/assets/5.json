@@ -1,0 +1,25 @@
+{
+    "name": "Vaders #6",
+    "symbol": "VAD",
+    "description": "10 vader collections",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "chair",
+            "value": "blue"
+        },
+        {
+            "trait_type": "books",
+            "value": "yellow"
+        }
+    ],
+    "properties": {
+        "category":"image",
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

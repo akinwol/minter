@@ -1,0 +1,29 @@
+{
+    "name": "Vaders #2",
+    "symbol": "VAD",
+    "description": "10 vader collections",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "accessory",
+            "value": "pencil"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "clipboard"
+        },
+        {
+            "trait_type": "books",
+            "value": "purple"
+        }
+    ],
+    "properties": {
+        "category":"image",
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
